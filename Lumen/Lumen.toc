@@ -1,0 +1,18 @@
+## Interface: 120105
+## Title: Lumen
+## Notes: Clean, themed UI for WoW Forever: minimap, cast bars, healer group frames, bags, chat and clutter control.
+## Author: Laurens
+## Version: 0.1.0
+## SavedVariables: LumenDB
+## IconTexture: Interface\Icons\Spell_Holy_HolyBolt
+
+Core.lua
+Theme.lua
+Settings.lua
+
+Modules\Minimap.lua
+Modules\CastBars.lua
+Modules\GroupFrames.lua
+Modules\Bags.lua
+Modules\Chat.lua
+Modules\Declutter.lua
